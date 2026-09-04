@@ -1,0 +1,24 @@
+{
+  "background_url": "https://raw.githubusercontent.com/DevIzum/Host/main/VID_20260704_185210_975.mp4",
+  "key_background_url": "https://raw.githubusercontent.com/DevIzum/Host/main/VID_20260704_185210_975.mp4",
+  "auth_version": "1.0",
+  "systems": [
+    {
+      "name": "CALL OF DUTY",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "",
+      "libs": [
+        {
+          "name": "YuriHaX Library",
+          "lib_name": "libYuriHaX.so",
+          "download_url": "https://zxx.spwz.online/Farlight/libn38.so",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/VID_20260704_185210_975.mp4",
+          "version": "1.0",
+          "enabled": true
+        }
+      ]
+    }
+  ],
+  "music": ""
+}
