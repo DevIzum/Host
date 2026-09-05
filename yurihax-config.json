@@ -18,7 +18,7 @@
           "enabled": true
         },
         {
-          "name": "Xinn",
+          "name": "XINN",
           "lib_name": "libXINNMOD.so",
           "download_url": "https://zxx.spwz.online/Farlight/libXINNMOD.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
