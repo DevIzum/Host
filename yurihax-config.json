@@ -17,6 +17,30 @@
           "version": "1.0",
           "enabled": true
         }
+        {
+          "name": "Gusion",
+          "lib_name": "HAtdog.so",
+          "download_url": "https://zxx.spwz.online/Farlight/libn1.so",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "version": "1.0",
+          "enabled": true
+        }
+        {
+          "name": "Balmond",
+          "lib_name": "HAt.so",
+          "download_url": "https://zxx.spwz.online/Farlight/libn6.so",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "version": "1.0",
+          "enabled": true
+        }
+        {
+          "name": "Balmod",
+          "lib_name": "HA.so",
+          "download_url": "https://zxx.spwz.online/Farlight/libn9.so",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "version": "1.0",
+          "enabled": true
+        }
       ]
     }
   ],
