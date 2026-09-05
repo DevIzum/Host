@@ -34,9 +34,9 @@
           "enabled": true
         },
         {
-          "name": "Balmod",
-          "lib_name": "HA.so",
-          "download_url": "https://zxx.spwz.online/Farlight/libn9.so",
+          "name": "VVIP",
+          "lib_name": "libxd2.so",
+          "download_url": "https://zxx.spwz.online/Farlight/libxd2.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": true
