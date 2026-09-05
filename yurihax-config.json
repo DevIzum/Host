@@ -26,9 +26,9 @@
           "enabled": true
         },
         {
-          "name": "Balmond",
-          "lib_name": "HAt.so",
-          "download_url": "https://zxx.spwz.online/Farlight/libn6.so",
+          "name": "EWAN",
+          "lib_name": "libxd1.so",
+          "download_url": "https://zxx.spwz.online/Farlight/libxd1.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": true
