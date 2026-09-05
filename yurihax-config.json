@@ -20,7 +20,7 @@
         {
           "name": "Gusion",
           "lib_name": "HAtdog.so",
-          "download_url": "https://zxx.spwz.online/Farlight/libn1.so",
+          "download_url": "https://zxx.spwz.online/Farlight/liblgsl.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": true
