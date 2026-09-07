@@ -47,7 +47,7 @@
           "download_url": "https://zxx.spwz.online/Farlight/libn5.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "AUTOBENG",
