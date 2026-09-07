@@ -11,32 +11,32 @@
       "libs": [
         {
           "name": "VOLTEX",
-          "lib_name": "libtestCRACKED.so",
-          "download_url": "https://zxx.spwz.online/Farlight/libtestCRACKED.so",
+          "lib_name": "VOLTEX.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/368/709b3f49c04be139c003d7e597cd109e0289df31d2bd1fabc0e36dfeae416b60",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh2.jpg",
           "version": "1.0",
           "enabled": true
         },
         {
           "name": "XINN",
-          "lib_name": "libXINNMOD.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/365/61d08c3009d646dec92e0adbd0abfc37a48ff420c35d63af2f3075ff828a8a4d",
+          "lib_name": "XINNMOD.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/367/a59a66d8cd74876e560e7dac9996eca7aa2e1d3e2c2eb3714baf6812036ebdca",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh.jpg",
           "version": "1.0",
           "enabled": true
         },
         {
           "name": "SHABRU",
-          "lib_name": "libxd1.so",
-          "download_url": "https://zxx.spwz.online/Farlight/libxd1.so",
+          "lib_name": "SHABRU.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/369/b2158137467617a919b25a016f431790161268ee7e9f1619bdcfe3978b35b386",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
           "version": "1.0",
           "enabled": true
         },
         {
           "name": "AUTOBENG",
-          "lib_name": "libGhosstCRACKED.so",
-          "download_url": "https://zxx.spwz.online/Farlight/libGhosstCRACKED.so",
+          "lib_name": "XD2.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/366/b1b7126a28d36c96b7bb627351531621ca4b46f3df9bd1e5948519f12e98881a",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": true
