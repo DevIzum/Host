@@ -20,7 +20,7 @@
         {
           "name": "XINN",
           "lib_name": "libXINNMOD.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/362/de15698490372f59e960a18631653efa66f71a229d8263af77080f342dac7237",
+          "download_url": "https://zxx.spwz.online/Farlight/libXINNMOD.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh.jpg",
           "version": "1.0",
           "enabled": true
