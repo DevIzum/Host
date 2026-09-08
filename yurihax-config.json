@@ -55,7 +55,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGlidisrKy5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         }
       ]
     }
