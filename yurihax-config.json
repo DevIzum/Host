@@ -47,7 +47,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRVFVSU5PWENSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "AUTOBENG",
