@@ -34,20 +34,20 @@
           "enabled": true
         },
         {
-          "name": "ARESS",
-          "lib_name": "ARESS.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliTUlUU1Uuc28",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh4.jpg",
+          "name": "ECHO",
+          "lib_name": "ECHO.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRUNITy5zbw",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh7.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
-          "name": "AUTO BENG",
-          "lib_name": "epic.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS1VSVC5zbw",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "name": "ZERO",
+          "lib_name": "ZERO.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliWkVSTy5zbw",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh6.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "HOSKE",
