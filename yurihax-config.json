@@ -11,7 +11,7 @@
       "libs": [
         {
           "name": "SHONE",
-          "lib_name": "SHONE",
+          "lib_name": "SHONE.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliU0hPTkUuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh.jpg",
           "version": "1.0",
@@ -19,7 +19,7 @@
         },
         {
           "name": "NUSANTARA",
-          "lib_name": "NUSA",
+          "lib_name": "NUSA.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliTlVTQS5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh1.jpg",
           "version": "1.0",
@@ -27,7 +27,7 @@
         },
         {
           "name": "NPC",
-          "lib_name": "NPC",
+          "lib_name": "NPC.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGlibnBjLnNv",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh2.jpg",
           "version": "1.0",
@@ -51,7 +51,7 @@
         },
         {
           "name": "HOSKE",
-          "lib_name": "HOS",
+          "lib_name": "HOS.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliSE9TS0Uuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
           "version": "1.0",
@@ -67,7 +67,7 @@
         },
         {
           "name": "HUMPRHEY",
-          "lib_name": "HUMP",
+          "lib_name": "HUMP.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/aHVtcHJoZXkuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh4.jpg",
           "version": "1.0",
