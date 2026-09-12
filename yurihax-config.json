@@ -63,7 +63,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliR2hvc3N0RXh0Q1JBQ0tFRC5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "HUMPRHEY",
