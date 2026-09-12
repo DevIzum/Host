@@ -42,20 +42,20 @@
           "enabled": true
         },
         {
-          "name": "TEST",
+          "name": "AUTO BENG",
           "lib_name": "epic.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRVFVSU5PWENSQUNLRUQuc28",
+          "download_url": "https://zxx.spwz.online/Farlight/libEQUINOXCRACKED.so",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "AUTOBENG",
           "lib_name": "aA.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGlidisrKy5zbw",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliT3dsTGlxdWlkVGVzdC5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         }
       ]
     }
