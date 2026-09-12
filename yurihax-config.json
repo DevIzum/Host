@@ -10,26 +10,26 @@
       "logo": "",
       "libs": [
         {
-          "name": "VOLTEX",
-          "lib_name": "VOLTEX.so",
+          "name": "SHONE",
+          "lib_name": "SHONE",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliU0hPTkUuc28",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh2.jpg",
-          "version": "1.0",
-          "enabled": true
-        },
-        {
-          "name": "XINN",
-          "lib_name": "XINNMOD.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliTlVTQS5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh.jpg",
           "version": "1.0",
           "enabled": true
         },
         {
-          "name": "SHABRU",
-          "lib_name": "SHABRU.so",
+          "name": "NUSANTARA",
+          "lib_name": "NUSA",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliTlVTQS5zbw",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh1.jpg",
+          "version": "1.0",
+          "enabled": true
+        },
+        {
+          "name": "NPC",
+          "lib_name": "NPC",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGlibnBjLnNv",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh2.jpg",
           "version": "1.0",
           "enabled": true
         },
@@ -39,7 +39,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliTUlUU1Uuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh4.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "AUTO BENG",
@@ -47,13 +47,13 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS1VSVC5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
-          "name": "AUTOBENG",
-          "lib_name": "aA.so",
+          "name": "HOSKE",
+          "lib_name": "HOS",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliSE9TS0Uuc28",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
           "version": "1.0",
           "enabled": true
           },
@@ -63,13 +63,13 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRGV2aW5lLnNv",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
-          "name": "AUTOBENG",
-          "lib_name": "aAa.so",
+          "name": "HUMPRHEY",
+          "lib_name": "HUMP",
           "download_url": "https://zxx.spwz.online/yuri-library/file/aHVtcHJoZXkuc28",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh4.jpg",
           "version": "1.0",
           "enabled": true
         },
