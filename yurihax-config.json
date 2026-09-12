@@ -58,9 +58,9 @@
           "enabled": true
           },
         {
-          "name": "AUTO BENG",
-          "lib_name": "epaic.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRGV2aW5lLnNv",
+          "name": "GHOSST",
+          "lib_name": "GHOST.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliR2hvc3N0RXh0Q1JBQ0tFRC5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": false
