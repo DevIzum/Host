@@ -58,10 +58,10 @@
           "enabled": true
           },
         {
-          "name": "TESTAUTOBAN",
+          "name": "CORE Kirito",
           "lib_name": "GHOST.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS2lyaXRvRnVsbENSQUNLRUQuc28",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh5.jpg",
           "version": "1.0",
           "enabled": true
         },
@@ -74,12 +74,12 @@
           "enabled": true
         },
         {
-          "name": "AUTO BENG",
-          "lib_name": "epic.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS1VSVC5zbw",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
+          "name": "ASHESZ Kirito",
+          "lib_name": "Ashesz.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliQXNoZXN6RnVsbENSQUNLRUQuc28",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh8.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "AUTOBENG",
