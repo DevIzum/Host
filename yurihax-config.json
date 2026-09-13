@@ -83,11 +83,11 @@
         },
         {
           "name": "AUTOBENG",
-          "lib_name": "aA.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliSE9TS0Uuc28",
+          "lib_name": "aAa.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliQ0lELnNv",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         }
       ]
     }
