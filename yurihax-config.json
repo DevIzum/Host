@@ -10,9 +10,9 @@
       "logo": "",
       "libs": [
         {
-          "name": "SHONE",
-          "lib_name": "SHONE.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliU0hPTkUuc28",
+          "name": "kielHAX",
+          "lib_name": "KIEL.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS0lFTENSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh.jpg",
           "version": "1.0",
           "enabled": true
