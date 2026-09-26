@@ -10,7 +10,7 @@
       "logo": "",
       "libs": [
         {
-          "name": "kielHAX",
+          "name": "KIELHAX",
           "lib_name": "KIEL.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS0lFTENSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh.jpg",
@@ -18,17 +18,17 @@
           "enabled": true
         },
         {
-          "name": "NUSANTARA",
-          "lib_name": "NUSA.so",
+          "name": "AETHER KIRITO",
+          "lib_name": "AETHER.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRlJFRUNSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh1.jpg",
           "version": "1.0",
           "enabled": true
         },
         {
-          "name": "NPC",
-          "lib_name": "NPC.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGlibnBjLnNv",
+          "name": "OWLHAX",
+          "lib_name": "OWL.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliQ0VEQ1JBQ0tFRC5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh2.jpg",
           "version": "1.0",
           "enabled": true
@@ -39,7 +39,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRUNITy5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh7.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "ZERO",
@@ -47,7 +47,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliWkVSTy5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh6.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "HOSKE",
@@ -55,7 +55,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliSE9TS0Uuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
           },
         {
           "name": "CORE Kirito",
@@ -63,7 +63,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS2lyaXRvRnVsbENSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh5.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "HUMPRHEY",
@@ -71,7 +71,7 @@
           "download_url": "https://zxx.spwz.online/yuri-library/file/aHVtcHJoZXkuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh4.jpg",
           "version": "1.0",
-          "enabled": true
+          "enabled": false
         },
         {
           "name": "ASHESZ NEW",
@@ -84,7 +84,7 @@
         {
           "name": "AUTOBENG",
           "lib_name": "aAa.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliQ0VEQ1JBQ0tFRC5zbw",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": true
