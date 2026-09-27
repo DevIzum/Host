@@ -50,12 +50,12 @@
           "enabled": true
         },
         {
-          "name": "HOSKE",
-          "lib_name": "HOS.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliSE9TS0Uuc28",
+          "name": "GONHAX",
+          "lib_name": "GON.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliR09OQ1JBQ0tFRC5zbw",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
           },
         {
           "name": "CORE Kirito",
