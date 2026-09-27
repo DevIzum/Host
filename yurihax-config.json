@@ -42,12 +42,12 @@
           "enabled": true
         },
         {
-          "name": "ZERO",
-          "lib_name": "ZERO.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliWkVSTy5zbw",
+          "name": "DINZ DELUXE",
+          "lib_name": "DINZ.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRElOWkNSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh6.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "HOSKE",
@@ -84,7 +84,7 @@
         {
           "name": "AUTOBENG",
           "lib_name": "aAa.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRElOWkNSQUNLRUQuc28",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRElOWkNSQUNLR8",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/download.jpg",
           "version": "1.0",
           "enabled": true
