@@ -34,7 +34,7 @@
           "enabled": true
         },
         {
-          "name": "WHITECROWNS",
+          "name": "WHITECROWNS SOVER",
           "lib_name": "WHITE.so",
           "download_url": "https://zxx.spwz.online/yuri-library/file/bGliV0hJVEVDUkFDS0VELnNv",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh7.jpg",
@@ -66,12 +66,12 @@
           "enabled": false
         },
         {
-          "name": "HUMPRHEY",
-          "lib_name": "HUMP.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/aHVtcHJoZXkuc28",
+          "name": "WHITECROWNS EQUI",
+          "lib_name": "CROWN.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliRXF1aW5veENSQUNLRUQuc28",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh4.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "ASHESZ NEW",
