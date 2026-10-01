@@ -50,9 +50,9 @@
           "enabled": true
         },
         {
-          "name": "GONHAX",
-          "lib_name": "GON.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliTEVWQ1JBQ0tFRC5zbw",
+          "name": "ASTRID",
+          "lib_name": "AST.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliQVNDUkFDS0VELnNv",
           "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh3.jpg",
           "version": "1.0",
           "enabled": true
