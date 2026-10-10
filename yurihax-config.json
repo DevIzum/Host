@@ -98,12 +98,12 @@
           "enabled": true
         },
         {
-          "name": "VELDORA",
-          "lib_name": "VEL.so",
-          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliS2lyaXRvVHpDUkFDS0VELnNv",
-          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh8.jpg",
+          "name": "GHOSST KIRITO",
+          "lib_name": "GHOSST.so",
+          "download_url": "https://zxx.spwz.online/yuri-library/file/bGliR0hPU1NUQ1JBQ0tFRC5zbw",
+          "icon_url": "https://raw.githubusercontent.com/DevIzum/Host/main/luh11.jpg",
           "version": "1.0",
-          "enabled": false
+          "enabled": true
         },
         {
           "name": "AUTOBENG",
